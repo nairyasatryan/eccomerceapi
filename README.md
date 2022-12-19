@@ -2,7 +2,7 @@
 
 ## Description
 
-This project waas built for e-commerce application for adding data, products, users, etc.
+This project waas built for e-commerce application for adding and saving data, products, users, etc.
 
 
 
