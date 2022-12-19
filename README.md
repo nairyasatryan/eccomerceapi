@@ -16,17 +16,17 @@ This project waas built for e-commerce application for adding and saving data, p
 - Security of user's cart data
 - MongoDB database
 
-###Installing
+### Installing
 
-`git clone https://github.com/nairyasatryan/eccomerceapi.git<br>
+` git clone https://github.com/nairyasatryan/eccomerceapi.git<br>
  cd.. eccomerceapi/ECCOMERCEAPI<br>
  npm start
  `
  
 
-##Authors
+## Authors
 
-Contributors names and contact info
+Contributors names and contact info  
 Feel free to contribute to the project
 
 
