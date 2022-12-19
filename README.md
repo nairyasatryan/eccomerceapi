@@ -1,4 +1,8 @@
 # Backend for e-commerce web site
 
-## This project waas built for e-commerce application. 
+## Description
+
+This project waas built for e-commerce application for adding data, products, users and etc.
+
+
 
