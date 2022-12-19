@@ -23,7 +23,7 @@ This project waas built for e-commerce application for adding and saving data, p
 >npm start
 
 
-## Frontend uses this api
+## API IS USED BY THIS FRONTEND
  https://github.com/nairyasatryan/final_project.git
 
 ## Authors
