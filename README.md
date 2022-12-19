@@ -22,7 +22,9 @@ This project waas built for e-commerce application for adding and saving data, p
 >cd.. eccomerceapi/ECCOMERCEAPI    
 >npm start
 
- 
+
+## Frontend uses this api
+ https://github.com/nairyasatryan/final_project.git
 
 ## Authors
 
