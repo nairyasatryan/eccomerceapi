@@ -18,10 +18,9 @@ This project waas built for e-commerce application for adding and saving data, p
 
 ### Installing
 
-` git clone https://github.com/nairyasatryan/eccomerceapi.git  
- cd.. eccomerceapi/ECCOMERCEAPI  
- npm start
- `
+git clone https://github.com/nairyasatryan/eccomerceapi.git    
+cd.. eccomerceapi/ECCOMERCEAPI    
+npm start  
  
 
 ## Authors
