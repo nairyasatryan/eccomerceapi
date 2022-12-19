@@ -6,3 +6,13 @@ This project waas built for e-commerce application for adding data, products, us
 
 
 
+##Features
+
+-User registration and login
+-Authetication with JWT
+-Simple Crud
+-Admin verification
+
+
+
+
