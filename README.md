@@ -2,7 +2,7 @@
 
 ## Description
 
-This project waas built for e-commerce application for adding and saving data, products, users, etc.
+This project was built with Express and MongoDB for e-commerce application for adding and saving data, products, users, etc.
 
 
 
