@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was built with Express and MongoDB for e-commerce application for adding and saving data, products, users, etc.
+This project was built using Express and MongoDB for e-commerce application for adding and saving data, products, users, etc.
 
 
 
@@ -17,20 +17,18 @@ This project was built with Express and MongoDB for e-commerce application for a
 - MongoDB database
 
 ### Installing
-
->git clone https://github.com/nairyasatryan/eccomerceapi.git    
->cd.. eccomerceapi/ECCOMERCEAPI    
->npm start
+```
+git clone https://github.com/nairyasatryan/eccomerceapi.git    
+cd.. eccomerceapi/ECCOMERCEAPI
+npm install
+npm start
+```
 
 
 ## API IS USED BY THIS FRONTEND
  https://github.com/nairyasatryan/final_project.git
 
 ## Authors
-
-Contributors names and contact info  
-Feel free to contribute to the project
-
 
 nairyasatryan
 
